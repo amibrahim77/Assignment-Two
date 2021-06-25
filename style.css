@@ -1,0 +1,63 @@
+.bg-color{
+    background-color:#FFFBF0;
+}
+.bg-color img{
+  width:30%;
+}
+.nav-bg{
+    background-color:#FFFBF0;
+    height: 50px;
+}
+
+.button img{
+    height:30px;
+}
+.button{
+    border: 0;
+    background-color: #99B236;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    font: 700;
+}
+span{
+    color: #FABE4C;
+    font: 700;
+}
+h1, h3, h5{
+    color: #363958;
+    font: 700;
+}
+.jacket-card img{
+    height:60%;
+    border-radius: 25px;
+  
+}
+.jacket-card{
+    border: none;
+    background-color:#FFFFFF;
+    padding: 1em;
+    border-radius: 20px;
+
+}
+.Button img{
+    height: 20px;
+    width: 30px;
+}
+.Button{
+    border: 0;
+    background-color: #99B236;
+    border-radius: 5px;
+    padding:10px;
+    color: white;
+    font: 700;
+}
+.left-row img{
+    height: 60px;
+}
+.icon{
+    text-align: center;
+    padding-bottom: 3em;
+    justify-content: space-between;
+    line-height: 5px;
+}
